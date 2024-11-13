@@ -1,0 +1,1484 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* l10n_ve_pad
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-05 10:42+0000\n"
+"PO-Revision-Date: 2024-11-05 10:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1401
+msgid "Acevedo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_401
+msgid "Achaguas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1001
+#: model:res.city,name:l10n_ve_pad.res_city_1501
+msgid "Acosta"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1710
+msgid "Agua Blanca"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1511
+msgid "Aguasay"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1301
+msgid "Alberto Adriani"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_609
+msgid "Alberto Arvelo Torrealba"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2217
+msgid "Almirante Padilla"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_201
+msgid "Anaco"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1302
+#: model:res.city,name:l10n_ve_pad.res_city_1414
+#: model:res.city,name:l10n_ve_pad.res_city_1918
+#: model:res.city,name:l10n_ve_pad.res_city_2015
+msgid "Andrés Bello"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1208
+#: model:res.city,name:l10n_ve_pad.res_city_1811
+#: model:res.city,name:l10n_ve_pad.res_city_612
+msgid "Andrés Eloy Blanco"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1813
+msgid "Andrés Mata"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_708
+msgid "Angostura"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1610
+msgid "Antolín Del Campo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2303
+msgid "Antonio Díaz"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_610
+msgid "Antonio José De Sucre"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1311
+msgid "Antonio Pinto Salinas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1923
+msgid "Antonio Rómulo Costa"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_901
+msgid "Anzoátegui"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_202
+msgid "Aragua"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1701
+msgid "Araure"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1322
+msgid "Aricagua"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1601
+#: model:res.city,name:l10n_ve_pad.res_city_1801
+#: model:res.city,name:l10n_ve_pad.res_city_601
+msgid "Arismendi"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1303
+msgid "Arzobispo Chacón"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2112
+msgid "Arístides Bastidas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_501
+msgid "Atanasio Girardot"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_307
+msgid "Autónomo Alto Orinoco"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_302
+msgid "Autónomo Atabapo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_301
+msgid "Autónomo Atures"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_305
+msgid "Autónomo Autana"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_303
+msgid "Autónomo Guainía"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_306
+msgid "Autónomo Manapiare"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_304
+msgid "Autónomo Río Negro"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1901
+msgid "Ayacucho"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2201
+msgid "Baralt"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_602
+msgid "Barinas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1416
+msgid "Baruta"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_801
+msgid "Bejuma"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1802
+msgid "Benítez"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1803
+msgid "Bermúdez"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_407
+msgid "Biruaca"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2002
+msgid "Boconó"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1002
+#: model:res.city,name:l10n_ve_pad.res_city_1502
+#: model:res.city,name:l10n_ve_pad.res_city_1814
+#: model:res.city,name:l10n_ve_pad.res_city_1902
+#: model:res.city,name:l10n_ve_pad.res_city_2016
+#: model:res.city,name:l10n_ve_pad.res_city_2101
+#: model:res.city,name:l10n_ve_pad.res_city_511
+#: model:res.city,name:l10n_ve_pad.res_city_603
+msgid "Bolívar"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1402
+msgid "Brión"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2102
+msgid "Bruzual"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1003
+msgid "Buchivacoa"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1420
+msgid "Buroz"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2214
+msgid "Cabimas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1021
+msgid "Cacique Manaure"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1804
+msgid "Cajigal"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1108
+msgid "Camaguán"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_515
+msgid "Camatagua"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1304
+msgid "Campo Elías"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2008
+msgid "Candelaria"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1313
+msgid "Caracciolo Parra Olmedo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2003
+msgid "Carache"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1314
+msgid "Cardenal Quintero"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1503
+msgid "Caripe"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1004
+msgid "Carirubana"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_802
+msgid "Carlos Arvelo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_701
+msgid "Caroní"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1417
+msgid "Carrizal"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2304
+msgid "Casacoima"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2212
+msgid "Catatumbo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1504
+#: model:res.city,name:l10n_ve_pad.res_city_702
+msgid "Cedeño"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1418
+msgid "Chacao"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1114
+msgid "Chaguaramas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:ir.model,name:l10n_ve_pad.model_res_city
+#: model_terms:ir.ui.view,arch_db:l10n_ve_pad.res_partner_address_form_l10n_ve
+msgid "City"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2110
+msgid "Cocorote"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:ir.model.fields,field_description:l10n_ve_pad.field_res_city__l10n_ve_code
+msgid "Code"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1005
+msgid "Colina"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2203
+msgid "Colón"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model_terms:ir.ui.view,arch_db:l10n_ve_pad.res_partner_address_form_l10n_ve
+msgid "Country"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1201
+msgid "Crespo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1412
+msgid "Cristóbal Rojas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_611
+msgid "Cruz Paredes"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1815
+msgid "Cruz Salmerón Acosta"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1904
+msgid "Cárdenas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1910
+msgid "Córdoba"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1014
+msgid "Dabajuro"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1006
+msgid "Democracia"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_217
+msgid "Diego Bautista Urbaneja"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_803
+msgid "Diego Ibarra"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1602
+msgid "Díaz"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_710
+msgid "El Callao"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1419
+msgid "El Hatillo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1111
+msgid "El Socorro"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2004
+msgid "Escuque"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1702
+msgid "Esteller"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1505
+#: model:res.city,name:l10n_ve_pad.res_city_604
+msgid "Ezequiel Zamora"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1007
+#: model:res.city,name:l10n_ve_pad.res_city_902
+msgid "Falcón"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1008
+msgid "Federación"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_211
+msgid "Fernando De Peñalver"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1919
+msgid "Fernández Feo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1103
+#: model:res.city,name:l10n_ve_pad.res_city_1924
+#: model:res.city,name:l10n_ve_pad.res_city_209
+msgid "Francisco De Miranda"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_218
+msgid "Francisco Del Carmen Carvajal"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2220
+msgid "Francisco Javier Pulgar"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_517
+msgid "Francisco Linares Alcántara"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1611
+msgid "García"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1911
+msgid "García De Hevia"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_903
+msgid "Girardot"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_709
+msgid "Gran Sabana"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_804
+msgid "Guacara"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1403
+msgid "Guaicaipuro"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1703
+msgid "Guanare"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1704
+msgid "Guanarito"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_215
+msgid "Guanta"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1305
+msgid "Guaraque"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1912
+msgid "Guásimos"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1603
+msgid "Gómez"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_703
+msgid "Heres"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1404
+#: model:res.city,name:l10n_ve_pad.res_city_1903
+#: model:res.city,name:l10n_ve_pad.res_city_207
+#: model:res.city,name:l10n_ve_pad.res_city_2111
+msgid "Independencia"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1202
+msgid "Iribarren"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1020
+msgid "Jacura"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2216
+msgid "Jesús Enrique Lossada"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2219
+msgid "Jesús María Semprún"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1203
+msgid "Jiménez"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_510
+msgid "José Angel Lamas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2108
+msgid "José Antonio Páez"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2017
+msgid "José Felipe Márquez Cañizales"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1105
+#: model:res.city,name:l10n_ve_pad.res_city_503
+msgid "José Félix Ribas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_210
+msgid "José Gregorio Monagas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1925
+msgid "José María Vargas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_516
+msgid "José Rafael Revenga"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1104
+msgid "José Tadeo Monagas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_213
+msgid "Juan Antonio Sotillo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1106
+msgid "Juan Germán Roscio"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_806
+msgid "Juan José Mora"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_205
+msgid "Juan Manuel Cajigal"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2018
+msgid "Juan Vicente Campo Elías"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1306
+msgid "Julio César Salas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1102
+msgid "Julián Mellado"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1906
+msgid "Junín"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1307
+msgid "Justo Briceño"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1905
+msgid "Jáuregui"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2210
+msgid "La Cañada De Urdaneta"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2019
+msgid "La Ceiba"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2109
+msgid "La Trinidad"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2211
+msgid "Lagunillas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1405
+msgid "Lander"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1110
+msgid "Las Mercedes"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1101
+msgid "Leonardo Infante"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1920
+#: model:res.city,name:l10n_ve_pad.res_city_208
+msgid "Libertad"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_101
+#: model:res.city,name:l10n_ve_pad.res_city_1308
+#: model:res.city,name:l10n_ve_pad.res_city_1506
+#: model:res.city,name:l10n_ve_pad.res_city_1812
+#: model:res.city,name:l10n_ve_pad.res_city_1914
+#: model:res.city,name:l10n_ve_pad.res_city_509
+#: model:res.city,name:l10n_ve_pad.res_city_814
+msgid "Libertador"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_908
+msgid "Lima Blanco"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1907
+msgid "Lobatera"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_811
+msgid "Los Guayos"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1413
+msgid "Los Salias"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1016
+msgid "Los Taques"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2208
+msgid "Machiques De Perijá"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1604
+msgid "Maneiro"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_204
+msgid "Manuel Ezequiel Bruzual"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2113
+msgid "Manuel Monge"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2204
+msgid "Mara"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2205
+msgid "Maracaibo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1605
+msgid "Marcano"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_513
+msgid "Mario Briceño Iragorry"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1606
+#: model:res.city,name:l10n_ve_pad.res_city_1805
+msgid "Mariño"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1507
+msgid "Maturín"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1009
+msgid "Mauroa"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1806
+msgid "Mejía"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1913
+msgid "Michelena"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1010
+#: model:res.city,name:l10n_ve_pad.res_city_1310
+#: model:res.city,name:l10n_ve_pad.res_city_2009
+#: model:res.city,name:l10n_ve_pad.res_city_2206
+#: model:res.city,name:l10n_ve_pad.res_city_810
+msgid "Miranda"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1015
+msgid "Monseñor Iturriza"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1709
+msgid "Monseñor José Vicente De Unda"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_805
+msgid "Montalbán"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2010
+msgid "Monte Carmelo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1807
+msgid "Montes"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1204
+msgid "Morán"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2011
+msgid "Motatán"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_402
+msgid "Muñoz"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_812
+msgid "Naguanagua"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2103
+msgid "Nirgua"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1312
+msgid "Obispo Ramos De Lora"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_605
+msgid "Obispos"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_518
+msgid "Ocumare De La Costa De Oro"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1112
+msgid "Ortíz"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1705
+msgid "Ospino"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1321
+msgid "Padre Noguera"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_711
+msgid "Padre Pedro Chien"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1205
+msgid "Palavecino"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1022
+msgid "Palmasola"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2020
+msgid "Pampanito"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2012
+msgid "Pampán"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1915
+msgid "Panamericano"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_904
+msgid "Pao De San Juan Bautista"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1711
+msgid "Papelón"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1407
+msgid "Paz Castillo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2302
+msgid "Pedernales"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_606
+msgid "Pedraza"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_404
+msgid "Pedro Camejo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1421
+msgid "Pedro Gual"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_206
+msgid "Pedro María Freites"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1916
+msgid "Pedro María Ureña"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1107
+msgid "Pedro Zaraza"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1607
+msgid "Península De Macanao"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1011
+msgid "Petit"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2107
+msgid "Peña"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1508
+#: model:res.city,name:l10n_ve_pad.res_city_704
+msgid "Piar"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1408
+msgid "Plaza"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1315
+msgid "Pueblo Llano"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_807
+msgid "Puerto Cabello"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1509
+msgid "Punceres"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1406
+#: model:res.city,name:l10n_ve_pad.res_city_1706
+#: model:res.city,name:l10n_ve_pad.res_city_2207
+#: model:res.city,name:l10n_ve_pad.res_city_403
+msgid "Páez"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1017
+#: model:res.city,name:l10n_ve_pad.res_city_216
+msgid "Píritu"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2001
+msgid "Rafael Rangel"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1926
+msgid "Rafael Urdaneta"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1316
+msgid "Rangel"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1808
+msgid "Ribero"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_905
+msgid "Ricaurte"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1317
+msgid "Rivas Dávila"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_607
+msgid "Rojas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2213
+msgid "Rosario De Perijá"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_705
+msgid "Roscio"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_405
+#: model:res.city,name:l10n_ve_pad.res_city_909
+msgid "Rómulo Gallegos"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1921
+msgid "Samuel Darío Maldonado"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_906
+msgid "San Carlos"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_504
+msgid "San Casimiro"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1908
+msgid "San Cristóbal"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_813
+msgid "San Diego"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2104
+msgid "San Felipe"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_406
+msgid "San Fernando"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1019
+#: model:res.city,name:l10n_ve_pad.res_city_2218
+msgid "San Francisco"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1712
+msgid "San Genaro De Boconoito"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1115
+msgid "San Gerónimo De Guayabal"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_808
+msgid "San Joaquín"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_214
+msgid "San José De Guanipa"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1109
+msgid "San José De Guaribe"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_221
+msgid "San Juan De Capistrano"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1929
+msgid "San Judas Tadeo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2013
+msgid "San Rafael De Carvajal"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1713
+msgid "San Rafael De Onoto"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_505
+msgid "San Sebastián"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_219
+msgid "Santa  Ana"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1512
+msgid "Santa Bárbara"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1113
+msgid "Santa María De Ipire"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2202
+msgid "Santa Rita"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1714
+msgid "Santa Rosalía"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_502
+msgid "Santiago Mariño"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1309
+msgid "Santos Marquina"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_512
+msgid "Santos Michelena"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1922
+msgid "Seboruco"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_707
+msgid "Sifontes"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1012
+msgid "Silva"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1415
+#: model:res.city,name:l10n_ve_pad.res_city_203
+#: model:res.city,name:l10n_ve_pad.res_city_2221
+msgid "Simón Bolívar"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1209
+msgid "Simón Planas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1927
+#: model:res.city,name:l10n_ve_pad.res_city_212
+msgid "Simón Rodríguez"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_220
+msgid "Sir Arthur Mc Gregor"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_608
+msgid "Sosa"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1510
+msgid "Sotillo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model_terms:ir.ui.view,arch_db:l10n_ve_pad.res_partner_address_form_l10n_ve
+msgid "State"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model_terms:ir.ui.view,arch_db:l10n_ve_pad.res_partner_address_form_l10n_ve
+msgid "Street 2..."
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model_terms:ir.ui.view,arch_db:l10n_ve_pad.res_partner_address_form_l10n_ve
+msgid "Street..."
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1023
+#: model:res.city,name:l10n_ve_pad.res_city_1318
+#: model:res.city,name:l10n_ve_pad.res_city_1409
+#: model:res.city,name:l10n_ve_pad.res_city_1707
+#: model:res.city,name:l10n_ve_pad.res_city_1809
+#: model:res.city,name:l10n_ve_pad.res_city_1917
+#: model:res.city,name:l10n_ve_pad.res_city_2014
+#: model:res.city,name:l10n_ve_pad.res_city_2105
+#: model:res.city,name:l10n_ve_pad.res_city_2209
+#: model:res.city,name:l10n_ve_pad.res_city_506
+#: model:res.city,name:l10n_ve_pad.res_city_706
+msgid "Sucre"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:ir.model.fields,help:l10n_ve_pad.field_res_city__l10n_ve_code
+msgid "This code will help with the identification of each city in Venezuela."
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_907
+msgid "Tinaco"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1025
+msgid "Tocópero"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1928
+msgid "Torbes"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1206
+msgid "Torres"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1319
+#: model:res.city,name:l10n_ve_pad.res_city_514
+msgid "Tovar"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2005
+msgid "Trujillo"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1609
+msgid "Tubores"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2301
+msgid "Tucupita"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1320
+msgid "Tulio Febres Cordero"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1708
+msgid "Turén"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1018
+msgid "Unión"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2106
+msgid "Urachiche"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1513
+msgid "Uracoa"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1207
+#: model:res.city,name:l10n_ve_pad.res_city_1410
+#: model:res.city,name:l10n_ve_pad.res_city_2006
+#: model:res.city,name:l10n_ve_pad.res_city_507
+msgid "Urdaneta"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1909
+msgid "Uribante"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1024
+msgid "Urumaco"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1810
+msgid "Valdez"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_809
+msgid "Valencia"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2007
+msgid "Valera"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2215
+msgid "Valmore Rodríguez"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2401
+msgid "Vargas"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_2114
+msgid "Veroes"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1608
+msgid "Villalba"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model_terms:ir.ui.view,arch_db:l10n_ve_pad.res_partner_address_form_l10n_ve
+msgid "ZIP"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1013
+#: model:res.city,name:l10n_ve_pad.res_city_1411
+#: model:res.city,name:l10n_ve_pad.res_city_508
+msgid "Zamora"
+msgstr ""
+
+#. module: l10n_ve_pad
+#: model:res.city,name:l10n_ve_pad.res_city_1323
+msgid "Zea"
+msgstr ""
