@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+       <record id="l10n_ve.tax0sale" model="account.tax.template">
+       <field name="l10n_ve_rate_type">exempt</field>
+       </record>
+        <record id="l10n_ve.tax1sale" model="account.tax.template">
+        <field name="l10n_ve_rate_type">general</field>
+        </record>
+        <record id="l10n_ve.tax2sale" model="account.tax.template">
+        <field name="l10n_ve_rate_type">reduced</field>
+        </record>
+        <record id="l10n_ve.tax3sale" model="account.tax.template">
+        <field name="l10n_ve_rate_type">additional</field>
+        </record>
+        <record id="l10n_ve.tax0purchase" model="account.tax.template">
+        <field name="l10n_ve_rate_type">exempt</field>
+        </record>
+        <record id="l10n_ve.tax1purchase" model="account.tax.template">
+        <field name="l10n_ve_rate_type">general</field>
+        </record>
+        <record id="l10n_ve.tax2purchase" model="account.tax.template">
+        <field name="l10n_ve_rate_type">reduced</field>
+        </record>
+        <record id="l10n_ve.tax3purchase" model="account.tax.template">
+        <field name="l10n_ve_rate_type">additional</field>
+        </record>
+
+   </odoo>
